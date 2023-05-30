@@ -75,7 +75,7 @@ git push origin feature/my-new-feature
 
 ## Author
 
-MyBank is developed and maintained by [Your Name](https://github.com/your-username).
+MyBank is developed and maintained by [Debee](httpsgithub.com/debee18).
 
 ## License
 
